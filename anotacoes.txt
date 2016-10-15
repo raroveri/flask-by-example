@@ -1,0 +1,11 @@
+iniciar o postgres
+
+term1:
+python manage.py runserver
+
+term2:
+python worker.py
+
+term3:
+redis-server
+
