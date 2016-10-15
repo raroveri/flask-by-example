@@ -25,7 +25,11 @@ git push stage master
 
 git push pro master
 
+----
 
+tem que cadastrar cartao de credito...
+
+heroku addons:create heroku-redis:hobby-dev --app jund-wordcount-stage
 
 
 
