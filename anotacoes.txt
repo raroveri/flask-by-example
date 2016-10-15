@@ -9,3 +9,23 @@ python worker.py
 term3:
 redis-server
 
+----
+
+git status
+
+git add xxx.py
+
+git commit -a -m "Did this and that"
+
+git remote -v
+
+git push origin master
+
+git push stage master
+
+git push pro master
+
+
+
+
+
